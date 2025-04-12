@@ -23,4 +23,3 @@ This is a creative reimagining of the classic Snake game using Python's `turtle`
 
 ---
 
-### 📂 Folder Structure
